@@ -36,7 +36,7 @@ function Banner({title}) {
                 </>
             ):(<></>)}
 
-            <div className="banner_contents">
+            <div className="banner_contents ">
                 <div className="banner_titles">
                     <h1 className="text-left">
                         {banner[random]?.title || banner[random]?.name || banner[random]?.original_name}
