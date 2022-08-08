@@ -1,8 +1,6 @@
 .row-main {
     height: 280px;
     overflow-y: hidden;
-    position: absolute;
-    z-index: 2000;
 }
 
 .row_sub-main {

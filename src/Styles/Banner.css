@@ -96,21 +96,21 @@
     }
 }
 
+@media screen and (min-width:1200px) {
+    .banner_contents {
+        left: 32%;
+    }
+}
+
 @media screen and (min-width:800px) {
     .banner_contents {
-        left: 35%;
+        left: 31%;
     }
 }
 
 @media screen and (min-width:950px) {
     .banner_contents {
-        left: 30%;
-    }
-}
-
-@media screen and (min-width:1000px) {
-    .banner_contents {
-        left: 30%;
+        left: 27%;
     }
 }
 
@@ -123,13 +123,13 @@
 
 @media screen and (min-width:1300px) {
     .banner_contents {
-        left: 20%;
+        left: 25%;
         width: 620px;
     }
 }
 
-@media screen and (min-width:300px) {
+@media screen and (max-width:200px) {
     .banner_contents {
-        left: 15%;
+        left: 10%;
     }
 }
